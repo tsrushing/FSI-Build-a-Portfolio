@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://jooinn.com/images/water-background-5.jpg");
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+img {
+  width: 270px;
+  padding: 3px;
+  border: 4px solid red;
+  background-color: black;
+  width: 200px;
+  height: 200px;
+}
+p {
+  color: red;
+}
+div {
+  text-align: center;
+}
